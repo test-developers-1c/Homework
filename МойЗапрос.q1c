@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Номенклатура">
+		<text>Выбрать *
+ИЗ
+Справочник.Номенклатура
+</text>
+	</query>
+</querylist>
